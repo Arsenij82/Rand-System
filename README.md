@@ -1,9 +1,9 @@
-# Rand-System: Full Access Pack v0.2
+# Rand-System: Full Access Pack v0.3
 
 Everything you need is in the archive
 
 ### Installation instruction
-1.Unzip 'GameData' folder from the archive to the KSP root directory.
+1.If your version 1.12.x unzip 'GameData' folder from the archive to the KSP root directory.
 
 2.Start the game.
 
@@ -13,6 +13,6 @@ Everything you need is in the archive
 2.If you found a bug, write the name of the planet where the bug occurred, send a screenshot, or describe the bug, I would appreciate feedbach
 
 ### What's new
-1. Added 2 black holes
+1. Fixed and changed Rand
 
-2. Added localization to English and Russian
+2. Added 2 black holes and 4 planets
